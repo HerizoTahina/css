@@ -1,4 +1,4 @@
-# .bc-style-guide {
+# .bc-style {
 
 > The so-called `"nico-style"` brought to markdown. **Because Style Guide**.
 
